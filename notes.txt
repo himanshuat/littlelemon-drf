@@ -1,0 +1,11 @@
+username: admin
+password: admin
+
+username: crew
+password: paasword
+
+username: manager
+password: paasword
+
+username: newuser
+password: paasword
